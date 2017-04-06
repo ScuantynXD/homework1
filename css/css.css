@@ -1,0 +1,41 @@
+.clearfix {
+	clear: both;
+}
+.major {
+	width: 1600px;	
+	height: 3787px;
+	margin: 0px auto;
+}
+.JOlovers {
+	width: 1195px;
+	height: 705px;
+	background-color: gray;
+	float: left;
+}
+nav {
+	width: 405px;
+	height: 705px;
+	background-color: blue;
+	float: left;
+}
+.bestsellers .topsellerswomen, .topsellersmen {
+	height: 492px;
+	background-color: white;
+	border: 1px solid gray;
+}
+article {
+	height: 697px;
+	background-color: pink;
+}
+.subscribe {
+	height: 475px;
+	background-color: #eaeaea;
+}
+.main {
+	height: 362px;
+	background-color: #2b2c30;
+}
+.copyright {
+	height: 45px;
+	background-color: #141518;
+}
